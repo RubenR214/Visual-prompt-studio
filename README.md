@@ -1,2 +1,4 @@
 # Visual-prompt-studio
 This is my prompt portfolio for my arts appreciation class
+Ruben Rodriguez
+Art appreciation section 8
